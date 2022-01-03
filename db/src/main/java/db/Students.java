@@ -18,7 +18,7 @@ public class Students {
 	{
 		try
 		{
-			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/mydb?useSSL=false","root","password");
+			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/mydb?useSSL=false","root","7334173341");
 		}
 		catch(Exception e)
 		{
